@@ -11,7 +11,7 @@ const poppins = Poppins({
 
 export const metadata = {
  
-  tle: "Your Consultancy Name",
+  title: "Your Consultancy Name",
   description: "Professional consultancy services.",
   keywords: [
     "consultancy",
