@@ -10,6 +10,9 @@ const poppins = Poppins({
 });
 
 export const metadata = {
+  verification:{
+    google: "jLRAJyk4GDm_aqKxtgL3M5GWiYuvZkw37AoVHT7UNgc"
+  },
   title: "Adi Consultancy",
   description: "ADI Consultancy is your trusted partner for accounting, GST filing, TDS compliance, income tax services, bookkeeping, and business consulting. Serving individuals and businesses with reliable financial solutions.",
   icons:{
