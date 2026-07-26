@@ -85,10 +85,6 @@ export default function Navbar() {
             >
               Contact
             </Link>
-
-            <button className="bg-[#C9A227] text-[#0F2D52] py-2 rounded-md font-semibold">
-              Get Consultation
-            </button>
           </div>
         </div>
       )}
