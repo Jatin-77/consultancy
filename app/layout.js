@@ -27,6 +27,9 @@ export const metadata = {
     url: "https://consultancy-git-main-jatin-77s-projects.vercel.app",
     siteName: "Your Consultancy Name",
   },
+    verification: {
+    google: "jLRAJyk4GDm_aqKxtgL3M5GWiYuvZkw37AoVHT7UNgc",
+  },
   icons:{
     icon: "/logo.png"
   },
